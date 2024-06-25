@@ -1,3 +1,5 @@
+# w,c를 변수로 두는것에 집착하다보니 잘 안돼서 검색해서 참고함
+
 def solution(msg):
     answer = []
     alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
